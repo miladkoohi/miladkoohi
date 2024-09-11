@@ -5,8 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Blockchain,AI And ML
-- 💬 &nbsp;Ask me about anything related to Python/Django/Typescript/C# or Angular/React/Express/Flask/FastApi
-- 👨‍💻 &nbsp;Read more about my projects at [](https://www.gautamkrishnar.com/#portfolio)
+- 💬 &nbsp;Ask me about anything related to Python/Django/DevOps/ or Angular/React/Express/Flask/FastApi
 - ⚡ &nbsp;Fun fact: I :heart:  Astronautics / PS Gaming  and kurdistan
 
 📕 &nbsp;**Latest Blog Posts**
@@ -68,7 +67,7 @@ I create most of my open-source projects to solve the challenges I encounter in 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <a href='https://profile.codersrank.io/user/miladkoohi/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 

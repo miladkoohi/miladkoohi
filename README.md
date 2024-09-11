@@ -68,7 +68,7 @@ I create most of my open-source projects to solve the challenges I encounter in 
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/miladkoohi/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=miladkoohi&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
 </details>
